@@ -1,3 +1,5 @@
 {
-    "C_Cpp.errorSquiggles": "disabled"
+    "C_Cpp.default.compilerPath": "c:\\Users\\Professor Jhonny\\Documents\\cortex\\Coding\\Knowlage\\Begginer\\TIER 6\\year one\\Module 9\\C and C++\\.vscode\\settings.json",
+    "C_Cpp.errorSquiggles": "enabled",
+    "cmake.sourceDirectory": "C:/Users/Professor Jhonny/Documents/cortex/Coding/Knowlage/Begginer/TIER 6/year one/Module 9/vcpkg/buildtrees/boost-array/src/ost-1.82.0-d2256af922.clean"
 }
